@@ -6,7 +6,6 @@ package com.mine.designmode.patternstrategy;
  * @date 2018/07/11 16:45
  */
 public abstract class Duck {
-
     protected FlyBehaviorAble flyBehaviorAble;
 
     protected QuackBehaviorAble quackBehaviorAble;
